@@ -9,6 +9,7 @@ import {
     getAuth,
     createUserWithEmailAndPassword,
     signOut
+    signInWithEmailAndPassword
 } from 'firebase/auth'
 
 const firebaseConfig = {
